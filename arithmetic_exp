@@ -1,0 +1,12 @@
+#! /bin/bash
+
+
+
+num1=10
+num2=20
+
+echo "sum $((num1+num2))"
+echo "difference $((num2-num1))"
+echo "product $((num1*num2))"
+echo "division $((num1/num2))"
+echo "remainder $((num1%num2))"
